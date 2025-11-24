@@ -1,4 +1,5 @@
 export const siteConfig = {
+  website: 'https://dubaiteammktg.com/',
   social_links: {
     whatsapp: 'https://wa.me/message/26WL2OWAWHPWB1',
     telegram: 'https://t.me/xxbossmarketing',
